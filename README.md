@@ -16,4 +16,4 @@ Utiliser ce grand ensemble devient alors avantageux, même s’il existe un risq
 
 L’idée est donc de tirer parti des informations contenues dans l’ensemble de données le plus large pour enrichir l’analyse effectuée sur l’ensemble plus restreint, tout en minimisant l’introduction du biais.
 
-Le Notebook relatif au projet est consultable via le lien ci-dessous.
+Le Notebook relatif au projet est consultable ci-dessus.
